@@ -1,0 +1,34 @@
+{
+  "niruosandong": {
+    "sounds": [
+      {
+        "name": "korea:niruosandong",
+        "stream": true
+      }
+    ]
+  },
+  "niruosandongdj": {
+    "sounds": [
+      {
+        "name": "korea:niruosandongdj",
+        "stream": true
+      }
+    ]
+  },
+  "niruosandongdjsu": {
+    "sounds": [
+      {
+        "name": "korea:niruosandongdjsu",
+        "stream": true
+      }
+    ]
+  },
+  "gzpn": {
+    "sounds": [
+      {
+        "name": "korea:gzpn",
+        "stream": true
+      }
+    ]
+  }
+}
