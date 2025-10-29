@@ -28,7 +28,7 @@ bro只会1.20.1,1.21一窍不通，😡，这b玩意只支持1.21.1
 赤石材质4.0：https://www.bilibili.com/video/BV1KkgpzJEwQ/
 <img width="1024" height="643" alt="樱花林1" src="https://github.com/user-attachments/assets/f7818519-e4eb-4b65-8eab-97ae8a179c1d" />
 
-赤石材质5.0：https://www.bilibili.com/video/BV1moymBRETw/
+赤石材质5.0：https://www.bilibili.com/video/BV1Lfy2BvEPZ/
 ![5 0](https://github.com/user-attachments/assets/52e50907-6dce-448f-b0fb-c309fa2b6c55)
 
 。
